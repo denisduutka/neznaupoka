@@ -1,0 +1,42 @@
+@import "https://fonts.googleapis.com/css?family=Josefin Sans";
+html,
+body {
+  font-family: Josefin Sans;
+  background-color: #e4e1dc;
+  color: #3e4546; /*gray*/
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+p{
+  font-size: 90%;
+  line-height: 1.7;
+}
+h3{
+  color: #99a644; /*green*/
+  text-shadow: 0 0 1px #99a644; /*green*/
+}
+
+/*-------- HEADER -----------*/
+nav {
+  background-color: #999999; /*grey*/
+  width: 100%;
+  margin-left: -7.px;
+  display: inline-block;
+  height: 165px;
+}
+ul {
+  list-style-type: none;
+  width: 100%;
+  padding-left: 0;
+  margin-top: 6%;
+}
+nav ul li {
+  opacity: 1;
+  padding-top: 4%;
+  width: 14%;
+  height: 0;
+  float: left;
+  color: #ffffff;
+}
