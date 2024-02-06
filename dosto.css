@@ -255,41 +255,4 @@ h3 {
  margin:0px;
 
   
- padding:0px;
-}
-
-#header{
-height: 80 px;
-background: url(images/header.jpg) no-repeat;
-padding-left: 150px;
-padding-top: 10px;
-}
-p{
-padding: 5px;
-text-indent: 20px;
-text-align: justify;
-}
-
-p.ssylka{
-text-align: right;}
-
-#pogoda{
-float:left;
-weight: 140 px;
-padding-left: 10px;}
-
-#photo{
-float:right;
-weight: 220px
-padding-left: 10px;}
-
-#content{
-padding-left:140px;
-padding-right: 220px}
-
-#footer{
-background: #CCCCCC;
-padding-top: 5px;
-padding-bottom: 10px;
-text-align: center;
-clear:both;}
+ 
