@@ -17,7 +17,6 @@ h3{
   color: #99a644; /*green*/
   text-shadow: 0 0 1px #99a644; /*green*/
 }
-
 /*-------- HEADER -----------*/
 nav {
   background-color: #999999; /*grey*/
@@ -55,14 +54,12 @@ nav li a img{
   width: 200px;
   margin-top: -100px;
 }
-
 section ul li p,
 section ul li a,
 section ul li h1 {
   padding: 7% 0 0;
   text-decoration: none;
   color: #000;
-  
 }
 }
 #overmain {
@@ -71,10 +68,6 @@ section ul li h1 {
   text-align: center;
   padding-bottom: 9%;
 }
-  
-
-
-
 .specials {
   margin-top: -50px;
   /* small brown line */
@@ -148,7 +141,6 @@ section ul li h1 {
   font-weight: 400;
   padding-bottom: 12px;
 }
-
 @media screen and (min-width: 768px) {
   .menu {
     display: none;
